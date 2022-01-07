@@ -40,13 +40,13 @@ https://user-images.githubusercontent.com/68032323/148578694-f4f9c484-111f-42b8-
 
 # COMING SOON...STAY TUNED!
 
-2 Object Tracking
+### 2 Object Tracking
 To associate a univocal ID to each crop
 
-3 Object Counting
+### 3 Object Counting
 To count the crops
 
-4 Take crops snapshots
+### 4 Take crops snapshots
 To save the picture of every single crop
 
 ## Technologies Used

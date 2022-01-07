@@ -11,6 +11,8 @@ Intel with [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.it/co
 - To make an estimate of homogeneity in cultivated plants, one would have to manually count thousands of plants with huge waste of time and the risk of error. Without considering the problem of photographing or checking plant by plant in order to verify the growth, if it is damaged or other parameters.
 - Everything can be done by writing software that leverages computer vision and AI in real-time. Just fly the drone over the cultivated field.
 
+![](images/broccoli.jpeg)
+
 # 1 Object detection
 First, we need to recover a lot of images. We need to have all these images so that we can train any deep learning model to identify and cut out things that it has never seen before. There are many models of artificial intelligence and object detection, for this example I will use YOLOv3 because in this case, it is the easiest to use in a not particularly complex operation.
 

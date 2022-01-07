@@ -38,6 +38,17 @@ All this information must be passed to the training algorithm to make sure that 
 
 https://user-images.githubusercontent.com/68032323/148578694-f4f9c484-111f-42b8-addd-fa1342bedd0b.mp4
 
+# COMING SOON...STAY TUNED!
+
+2 Object Tracking
+To associate a univocal ID to each crop
+
+3 Object Counting
+To count the crops
+
+4 Take crops snapshots
+To save the picture of every single crop
+
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)

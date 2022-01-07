@@ -15,13 +15,18 @@ Intel with [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.it/co
 To make the artificial intelligence model recognize new objects, in our case YOLOv3, it is necessary to teach it what a broccoli is. You can find the python code to automatically extract the images from the video and save them in a folder here - (https://github.com/immanuvelprathap/Custom_Object_Detetection-Broccoli_Plant-DroneFootage/blob/main/data/video_to_frame.py).
 
 To have a great result it is always necessary to have photos with different types of lighting, different positions, backgrounds and contexts. This must be done so that the drone can recognize plants even when it is cloudy or when there is a lot of light.
+
 ![](images/Screenshot.png)
+
 Now you need to use image labeling software to identify the location of each broccoli plant on the images we downloaded earlier from the video. This software generates a .txt file associated with each image in which it indicates the exact position of all the plants present in the image.
+
 ![](images/Screenshot1.png)
+
 ![](images/Screenshot2.png)
 
 #Use the trained model
 All this information must be passed to the training algorithm to make sure that the drone, thanks to artificial intelligence, recognizes the plants. In the photo here is the result.
+
 ![](images/Screenshot3.png)
 
 

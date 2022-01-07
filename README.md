@@ -24,7 +24,8 @@ Now you need to use image labeling software to identify the location of each bro
 
 ![](images/Screenshot2.png)
 
-#Use the trained model
+## Use the trained model
+
 All this information must be passed to the training algorithm to make sure that the drone, thanks to artificial intelligence, recognizes the plants. In the photo here is the result.
 
 ![](images/Screenshot3.png)

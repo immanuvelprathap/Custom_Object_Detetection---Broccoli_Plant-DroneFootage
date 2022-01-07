@@ -45,6 +45,8 @@ https://user-images.githubusercontent.com/68032323/148578694-f4f9c484-111f-42b8-
 
 <img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width=200>
 
+<img target="_blank" src="https://miro.medium.com/max/800/1*bMyMOvHmXZAmuJxwYvsctg.jpeg" width=200>
+
 
 ## Team
 

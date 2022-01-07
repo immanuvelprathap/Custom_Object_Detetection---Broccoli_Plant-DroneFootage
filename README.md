@@ -35,3 +35,27 @@ All this information must be passed to the training algorithm to make sure that 
 
 https://user-images.githubusercontent.com/68032323/148578694-f4f9c484-111f-42b8-addd-fa1342bedd0b.mp4
 
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+<img target="_blank" src="https://miro.medium.com/max/1400/1*-QTg-_71YF0SVshMEaKZ_g.png" width=200>
+
+<img target="_blank" src="https://keras.io/img/logo.png" width=200>
+
+<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width=200>
+
+
+## Team
+
+<img target="_blank" src="https://avatars.githubusercontent.com/u/68032323?v=4" width=200> 
+
+[Immanuvel Prathap's Website - Click Here!](https://immanuvelprathap.in/)
+
+## License
+
+## Credits
+
+## References for researcher
+
+

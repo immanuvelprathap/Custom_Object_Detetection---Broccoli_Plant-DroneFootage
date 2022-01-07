@@ -30,7 +30,7 @@ All this information must be passed to the training algorithm to make sure that 
 
 ![](images/Screenshot3.png)
 
-# VIDEO RESULTS
+# Play the Video to see the Results!
 
 
 https://user-images.githubusercontent.com/68032323/148578694-f4f9c484-111f-42b8-addd-fa1342bedd0b.mp4

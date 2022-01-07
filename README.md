@@ -11,6 +11,16 @@ Intel with [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.it/co
 - To make an estimate of homogeneity in cultivated plants, one would have to manually count thousands of plants with huge waste of time and the risk of error. Without considering the problem of photographing or checking plant by plant in order to verify the growth, if it is damaged or other parameters.
 - Everything can be done by writing software that leverages computer vision and AI in real-time. Just fly the drone over the cultivated field.
 
+## Train the model
+To make the artificial intelligence model recognize new objects, in our case YOLOv3, it is necessary to teach it what a broccoli is. You can find the python code to automatically extract the images from the video and save them in a folder here - (https://github.com/immanuvelprathap/Custom_Object_Detetection-Broccoli_Plant-DroneFootage/blob/main/data/video_to_frame.py).
+
+To have a great result it is always necessary to have photos with different types of lighting, different positions, backgrounds and contexts. This must be done so that the drone can recognize plants even when it is cloudy or when there is a lot of light.
+![](images/)
+Now you need to use image labeling software to identify the location of each broccoli plant on the images we downloaded earlier from the video. This software generates a .txt file associated with each image in which it indicates the exact position of all the plants present in the image.
+
+#Use the trained model
+All this information must be passed to the training algorithm to make sure that the drone, thanks to artificial intelligence, recognizes the plants. In the photo here is the result.
+
 
 https://user-images.githubusercontent.com/68032323/148578694-f4f9c484-111f-42b8-addd-fa1342bedd0b.mp4
 

@@ -73,5 +73,10 @@ To save the picture of every single crop
 ## Credits
 
 ## References for researcher
+[FarmBeats: AI, Edge & IoT for Agriculture](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
+
+[10 Ways AI Has The Potential To Improve Agriculture In 2021](https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/?sh=472dfdee7f3b)
+
+[Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.it/content/www/it/it/big-data/article/agriculture-harvests-big-data.html)
 
 

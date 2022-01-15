@@ -80,3 +80,5 @@ To save the picture of every single crop
 [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.it/content/www/it/it/big-data/article/agriculture-harvests-big-data.html)
 
 
+
+

@@ -9,7 +9,7 @@ Intel with [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.it/co
 
 <img src="https://github.com/immanuvelprathap/Custom_Object_Detetection---Broccoli_Plant-DroneFootage/blob/main/images/agriculture-harvests-big-data-.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" />
 
-# LET"S START!
+# LET'S START!
 
 - We will analyze a video footage over broccoli plantation with the aim of detecting the broccoli plant/crop to have an estimation of homogeneity in crop plants. 
 - To make an estimate of homogeneity in cultivated plants, one would have to manually count thousands of plants with huge waste of time and the risk of error. Without considering the problem of photographing or checking plant by plant in order to verify the growth, if it is damaged or other parameters.

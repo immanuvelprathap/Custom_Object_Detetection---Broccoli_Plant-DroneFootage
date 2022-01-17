@@ -7,6 +7,8 @@
 It doesn’t take a lot of imagination or skill in predicting the future to understand how artificial intelligence has entered all industries. In particular, 2021 is the year of agriculture, in this article [10 Ways AI Has The Potential To Improve Agriculture In 2021](https://www.forbes.com/sites/louiscolumbus/2021/02/17/10-ways-ai-has-the-potential-to-improve-agriculture-in-2021/?sh=472dfdee7f3b) forbs there are some possible applications. I will show you an example.
 Intel with [Intel-Powered AI Helps Optimize Crop Yields](https://www.intel.it/content/www/it/it/big-data/article/agriculture-harvests-big-data.html) also makes us understand that the future is now. You can produce more with fewer resources.
 
+<img src="https://github.com/immanuvelprathap/Custom_Object_Detetection---Broccoli_Plant-DroneFootage/blob/main/images/agriculture-harvests-big-data-.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 - We will analyze a video footage over broccoli plantation with the aim of detecting the broccoli plant/crop to have an estimation of homogeneity in crop plants. 
 - To make an estimate of homogeneity in cultivated plants, one would have to manually count thousands of plants with huge waste of time and the risk of error. Without considering the problem of photographing or checking plant by plant in order to verify the growth, if it is damaged or other parameters.
 - Everything can be done by writing software that leverages computer vision and AI in real-time. Just fly the drone over the cultivated field.

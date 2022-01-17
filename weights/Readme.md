@@ -1,1 +1,2 @@
-PLEASE DOWNLOAD THE WEIGHTS FROM MY DRIVE - https://drive.google.com/drive/folders/1eBXKmi1AN9Tnh6SdLAx7gVUQi9N5riwq?usp=sharing
+# PLEASE DOWNLOAD THE WEIGHTS FROM MY DRIVE - https://drive.google.com/drive/folders/1eBXKmi1AN9Tnh6SdLAx7gVUQi9N5riwq?usp=sharing
+## NOTE: THESE WEIGHTS ARE TRAINED FOR BROCCOLI PLANTATION/CROPS ONLY.
